@@ -98,7 +98,7 @@ nav p {
             align-items: center;
         }
 
-    .article{
+    p{
 
         font-family: Roboto;
         font-size: 24px;
@@ -108,3 +108,59 @@ nav p {
         
     }
 
+.article {
+    
+    border: 1px solid;
+    border-radius: 30px;
+    width: 870px;
+    height: 225px;
+    padding-left: 45px;
+
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.contact1{
+    border: 1px solid;
+    border-radius: 2px;
+    border-color: #000000;
+    width: 930px;
+    height: 40px;
+    
+   
+    
+
+
+}
+
+.contact2 {
+border: 1px solid;
+border-color:#000000;
+width: 930px;
+height: 40px;
+border-radius:2px ;
+
+}
+
+.box2{
+
+    margin-top: 100px;
+    
+}
+
+#E-mail{
+
+    margin-top: 1px;
+ 
+}
+
+#Phone {
+
+    margin-top: 1px;
+
+}
